@@ -1,0 +1,73 @@
+{
+  "appIsExample": false,
+  "applicationVersion": 2,
+  "collapseInvisibleWidgets": true,
+  "color": "#FFEFDB",
+  "evaluationVersion": 2,
+  "pages": [
+    {
+      "id": "OAuth20",
+      "isDefault": true
+    },
+    {
+      "id": "GSheetsRWDAll",
+      "isDefault": false
+    },
+    {
+      "id": "GSheetsRWDSel1Column",
+      "isDefault": false
+    },
+    {
+      "id": "Firestore",
+      "isDefault": false
+    },
+    {
+      "id": "PostGreSQL",
+      "isDefault": false
+    },
+    {
+      "id": "Mongo",
+      "isDefault": false
+    },
+    {
+      "id": "ElasticSearch",
+      "isDefault": false
+    },
+    {
+      "id": "Oracle",
+      "isDefault": false
+    },
+    {
+      "id": "Redshift",
+      "isDefault": false
+    },
+    {
+      "id": "SMTP",
+      "isDefault": false
+    },
+    {
+      "id": "S3",
+      "isDefault": false
+    },
+    {
+      "id": "Airtable",
+      "isDefault": false
+    },
+    {
+      "id": "Hubspot",
+      "isDefault": false
+    },
+    {
+      "id": "OpenAI",
+      "isDefault": false
+    },
+    {
+      "id": "Inbuilt Framework",
+      "isDefault": false
+    },
+    {
+      "id": "Snowflake",
+      "isDefault": false
+    }
+  ]
+}

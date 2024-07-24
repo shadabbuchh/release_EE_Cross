@@ -1,5 +1,8 @@
 {
   "appIsExample": false,
+  "appLayout": {
+    "type": "TABLET"
+  },
   "applicationVersion": 2,
   "collapseInvisibleWidgets": true,
   "color": "#FFEFDB",
@@ -69,5 +72,8 @@
       "id": "Snowflake",
       "isDefault": false
     }
-  ]
+  ],
+  "unpublishedAppLayout": {
+    "type": "TABLET"
+  }
 }

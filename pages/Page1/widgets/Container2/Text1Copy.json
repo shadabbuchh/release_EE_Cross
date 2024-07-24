@@ -1,7 +1,7 @@
 {
   "animateLoading": true,
   "borderRadius": "{{appsmith.theme.borderRadius.appBorderRadius}}",
-  "bottomRow": 83,
+  "bottomRow": 20,
   "dynamicBindingPathList": [
     {
       "key": "truncateButtonColor"
@@ -24,7 +24,7 @@
   "isLoading": false,
   "isVisible": true,
   "key": "kjnu79o0z9",
-  "leftColumn": 44,
+  "leftColumn": 5.245901639344263,
   "maxDynamicHeight": 9000,
   "minDynamicHeight": 4,
   "minWidth": 450,
@@ -33,23 +33,23 @@
   "mobileRightColumn": 17,
   "mobileTopRow": 76,
   "needsErrorInfo": false,
-  "originalBottomRow": 83,
-  "originalTopRow": 74,
+  "originalBottomRow": 85,
+  "originalTopRow": 81,
   "overflow": "NONE",
-  "parentColumnSpace": 13.015625,
-  "parentId": "0",
+  "parentColumnSpace": 12.405517578125,
+  "parentId": "2hvk16vfz6",
   "parentRowSpace": 10,
   "renderMode": "CANVAS",
   "responsiveBehavior": "fill",
-  "rightColumn": 60,
+  "rightColumn": 22.0327868852459,
   "shouldTruncate": false,
-  "text": "{{CheckboxGroup1.selectedValues}}",
+  "text": "{{TreeSelect1.selectedOptionValue}}",
   "textAlign": "LEFT",
   "textColor": "#231F20",
-  "topRow": 74,
+  "topRow": 16,
   "truncateButtonColor": "{{appsmith.theme.colors.primaryColor}}",
   "type": "TEXT_WIDGET",
   "version": 1,
-  "widgetId": "xsizxkloga",
-  "widgetName": "Text1Copy1"
+  "widgetId": "0py6lbs649",
+  "widgetName": "Text1Copy"
 }

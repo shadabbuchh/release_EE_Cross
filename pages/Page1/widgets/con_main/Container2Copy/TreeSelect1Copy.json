@@ -3,7 +3,7 @@
   "allowClear": false,
   "animateLoading": true,
   "borderRadius": "{{appsmith.theme.borderRadius.appBorderRadius}}",
-  "bottomRow": 75,
+  "bottomRow": 10,
   "boxShadow": "none",
   "defaultOptionValue": "BLUE",
   "dynamicBindingPathList": [
@@ -61,16 +61,16 @@
   ],
   "originalBottomRow": 75,
   "originalTopRow": 68,
-  "parentColumnSpace": 13.015625,
-  "parentId": "0",
+  "parentColumnSpace": 12.405517578125,
+  "parentId": "rl704p3hfe",
   "parentRowSpace": 10,
   "placeholderText": "Select option",
   "renderMode": "CANVAS",
   "responsiveBehavior": "fill",
-  "rightColumn": 20,
-  "topRow": 68,
+  "rightColumn": 20.98360655737705,
+  "topRow": 3,
   "type": "SINGLE_SELECT_TREE_WIDGET",
   "version": 1,
-  "widgetId": "6q4hi5t78j",
-  "widgetName": "TreeSelect1"
+  "widgetId": "hczmzejfb9",
+  "widgetName": "TreeSelect1Copy"
 }

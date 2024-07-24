@@ -12,6 +12,9 @@
     },
     {
       "key": "borderRadius"
+    },
+    {
+      "key": "text"
     }
   ],
   "dynamicHeight": "FIXED",
@@ -42,7 +45,7 @@
   "resetFormOnClick": false,
   "responsiveBehavior": "hug",
   "rightColumn": 55,
-  "text": "Submit",
+  "text": "{{Tabs1.selectedTab}}",
   "topRow": 0,
   "type": "BUTTON_WIDGET",
   "version": 1,

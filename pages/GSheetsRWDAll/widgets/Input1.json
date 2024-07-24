@@ -3,7 +3,7 @@
   "animateLoading": true,
   "autoFocus": false,
   "borderRadius": "{{appsmith.theme.borderRadius.appBorderRadius}}",
-  "bottomRow": 65,
+  "bottomRow": 227,
   "boxShadow": "none",
   "defaultText": "",
   "displayName": "Input",
@@ -54,7 +54,7 @@
     "textarea"
   ],
   "showStepArrows": false,
-  "topRow": 58,
+  "topRow": 220,
   "type": "INPUT_WIDGET_V2",
   "version": 2,
   "widgetId": "pudsrokjvh",

@@ -1,7 +1,7 @@
 {
   "animateLoading": true,
   "borderRadius": "{{appsmith.theme.borderRadius.appBorderRadius}}",
-  "bottomRow": 39,
+  "bottomRow": 59,
   "boxShadow": "none",
   "buttonColor": "{{appsmith.theme.colors.primaryColor}}",
   "buttonVariant": "PRIMARY",
@@ -49,7 +49,7 @@
     "submit"
   ],
   "text": "List Documents",
-  "topRow": 35,
+  "topRow": 55,
   "type": "BUTTON_WIDGET",
   "version": 1,
   "widgetId": "qbh2cr4ndb",

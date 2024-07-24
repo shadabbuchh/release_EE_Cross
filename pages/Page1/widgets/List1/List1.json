@@ -59,7 +59,7 @@
     }
   ],
   "currentItemsView": "{{[]}}",
-  "defaultSelectedItem": "001",
+  "defaultSelectedItem": "4",
   "dynamicBindingPathList": [
     {
       "key": "currentItemsView"

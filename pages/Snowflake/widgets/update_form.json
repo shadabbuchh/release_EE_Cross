@@ -348,7 +348,7 @@
           "labelTextSize": "0.875rem",
           "originalIdentifier": "CREATEDAT",
           "position": 2,
-          "sourceData": 1.609459201E12
+          "sourceData": 1609459201000
         },
         "DOB": {
           "accentColor": "{{((sourceData, formData, fieldState) => ((appsmith.theme.colors.primaryColor)))(update_form.sourceData, update_form.formData, update_form.fieldState)}}",
@@ -370,7 +370,7 @@
           "labelTextSize": "0.875rem",
           "originalIdentifier": "DOB",
           "position": 10,
-          "sourceData": 1.609488E12
+          "sourceData": 1609488000000
         },
         "EMAIL": {
           "accentColor": "{{((sourceData, formData, fieldState) => ((appsmith.theme.colors.primaryColor)))(update_form.sourceData, update_form.formData, update_form.fieldState)}}",
@@ -546,7 +546,7 @@
           "labelTextSize": "0.875rem",
           "originalIdentifier": "UPDATEDAT",
           "position": 3,
-          "sourceData": 1.609459201E12
+          "sourceData": 1609459201000
         }
       },
       "dataType": "object",
